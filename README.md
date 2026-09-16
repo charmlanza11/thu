@@ -1,5 +1,5 @@
 # thu
-james bond Charm
+Chen Mei
 # job experience 
 * Dancer
 * Singer
