@@ -1,5 +1,6 @@
 # thu
 james bond
-#job experience 
-*
+# job experience 
+* Dancer
+* Singer
 
