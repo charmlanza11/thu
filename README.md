@@ -1,5 +1,5 @@
 # thu
-james bond
+james bond Charm
 # job experience 
 * Dancer
 * Singer
