@@ -1,9 +1,9 @@
 # THU
-## 	~~Chen Mei 
+## 	~~Chen Mei~~
 # Job Experience 
 * Dancer
 * Singer
-* 
+  
   # School
 *  Tunghai University 
 
