@@ -1,5 +1,5 @@
 # THU
-<sub> Chen Mei </sub>
+## Chen Mei 
 # Job Experience 
 * Dancer
 * Singer
