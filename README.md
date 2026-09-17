@@ -1,9 +1,11 @@
-# THU 009
+
+#THU
 ## 	~~Chen Mei~~
+
 # Job Experience 
 * Dancer
 * Singer
-  
-  # School
+# School
 *  Tunghai University 
+
 
